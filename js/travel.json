@@ -1,0 +1,46 @@
+{
+    "travel": [
+        {
+            "title": "Flores",
+            "category": "Mountain",
+            "description": "Beautiful waves near the hill with a white drink box on the sand.",
+            "features": "Travel Blogger, Surving, Hotel",
+            "image": "https://images.unsplash.com/photo-1564419320461-6870880221ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "title": "Masamba",
+            "category": "City",
+            "description": "Coconut tree is dancing with the wind at the corner of the beach.",
+            "features": "Playground, Farming, Resto",
+            "image": "https://images.unsplash.com/photo-1520454974749-611b7248ffdb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "title": "Maldives",
+            "category": "Ocean",
+            "description": "Water is a part of our live, and the ocean is the motherearth.",
+            "features": "Summer Time, Diving, Resort",
+            "image": "https://images.unsplash.com/photo-1577172249844-716749254893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "title": "Raja Ampat",
+            "category": "Ocean",
+            "description": "Island always has a exotic point of view for everyone which see it.",
+            "features": "Exotic Island, Komodo, Seafood",
+            "image": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "title": "Sumbawa",
+            "category": "Mountain",
+            "description": "Over the castle on the hill, nature is bringing you back to the heaven.",
+            "features": "Beach Party, Extravaganza, Venue",
+            "image": "https://images.unsplash.com/photo-1504681869696-d977211a5f4c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "title": "Nusa Tenggara",
+            "category": "City",
+            "description": "Ohana is family, family means nobody is left behind or forgotten.",
+            "features": "Holly Day, Color Fun, Sauna",
+            "image": "https://images.unsplash.com/photo-1538964173425-93884d739596?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        }
+    ]
+}
